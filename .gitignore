@@ -1,0 +1,24 @@
+# IDE
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
+
+# Confidential
+/auth.json
+.env
+.env.backup
+.env.production
+
+# Vendor and Modules
+/node_modules
+/vendor
+
+# Cache
+/.phpunit.cache
+
+# Build Artifacts
+/out
+/dist
+/build

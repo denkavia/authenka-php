@@ -1,0 +1,21 @@
+{
+    "name": "denkavia/authenka",
+    "description": "Simple PHP Authorization Library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denkavia\\Authenka\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "denkavia",
+            "email": "denkavia.contactme@proton.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2"
+    }
+}
